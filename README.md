@@ -6,8 +6,8 @@ For this challenge, I used PostgreSQL and SQLAlchemy to analyze data on employee
 **Data Folder:**
 - Contains all data used in analysis.
 
-**Images:**
+**Images Folder:**
 - Contains ERD, and historgram and bar graph images. 
 
-**Queries:**
+**Queries Folder:**
 - Contains query for creating tables and executing an analysis in PostgreSQL, as well as a Jupyter Notebook file for the bonus analysis. 
