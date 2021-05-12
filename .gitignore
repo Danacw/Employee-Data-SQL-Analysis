@@ -130,3 +130,6 @@ dmypy.json
 
 #ignore DS Store
 .DS_Store
+
+#ignore config.py
+config.py
